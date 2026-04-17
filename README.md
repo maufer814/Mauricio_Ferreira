@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Maurício Ferreira!
 
 💻 Estudante de Desenvolvimento de Sistemas  
-🚀 Em constante aprendizado
 🎯 Focado em inovar e solucionar problemas  
 
 ---
